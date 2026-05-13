@@ -1,4 +1,4 @@
-# NIRVAN | Digital Portfolio Engine
+# NIRVAN | Personal Portfolio Project
 
 ![Django](https://img.shields.io/badge/Django-6.0-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
